@@ -1,0 +1,39 @@
+.reg-form {
+    width: 416px;
+    margin: 0 auto;
+}
+
+.reg-elem {
+    margin-bottom: 8px;
+    overflow: hidden;
+}
+
+.reg-elem input {
+    float: right;
+    height: 19px;
+    line-height: 19px;
+    margin: 0px;
+    padding: 0px 5px;
+    width: 287px;
+    border: 1px solid #ABADB3;
+}
+
+.sign-in-form {
+    width: 320px;
+    margin: 0 auto;
+}
+
+.sign-in-elem {
+    margin-bottom: 8px;
+    overflow: hidden;
+}
+
+.sign-in-elem input {
+    float: right;
+    height: 19px;
+    line-height: 19px;
+    margin: 0px;
+    padding: 0px 5px;
+    width: 250px;
+    border: 1px solid #ABADB3;
+}
